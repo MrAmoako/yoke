@@ -1,6 +1,6 @@
 import React from 'react'
 import './style.scss'
-import Hero from ''
+
 export const Login = () => {
   return (
     <div className='formContainer'>
